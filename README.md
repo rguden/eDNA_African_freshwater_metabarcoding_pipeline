@@ -5,7 +5,7 @@ This repository contains a modular Bash workflow for analysing Illumina eDNA met
 The pipeline follows the same step-based structure as the eDNA metagenomics workflow, where each step can be run independently using the `-s` argument.
 
 ---
-Pipeline script
+Pipeline script:
 ```bash
 edna_metabarcoding_pipeline.sh
 ```
